@@ -4,9 +4,6 @@ requests
 # Pour exécuter des commandes shell externes
 subprocess-run
 
-# Pour la manipulation des fichiers JSON
-json
-
 # Pour l'analyse des fichiers CSV
 pandas
 
