@@ -7,6 +7,7 @@ apt install python3.11-venv
 apt-get install gobuster
 apt-get install wpscan
 
+python -m venv venv                  ####Création du venv python
 source venv/bin/activate             ####faire cette commande avant de faire les pip install et de faire lancer le script
 
 pip install -r requirements.txt      #####Installation des prérequis
